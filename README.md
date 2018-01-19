@@ -1,7 +1,7 @@
 # Go Talks
 Click on the ✓ to see the slides/code/video.
 
-| Speaker | Topic | Slides | Code | Video |
+| Topic | Speaker | Slides | Code | Video |
 | --- | --- |:---:|:---:|:---:|
 | Learning Opentracing with Go | Loh Siu Yin | [✓](https://github.com/siuyin/present_opentracing-go) | | |
 | APEX | Kai Hendry | [✓](http://talks.webconverger.com/2017-08-22/) | | |
