@@ -7,6 +7,6 @@ Click on the ✓ to see the slides/code/video.
 | APEX | Kai Hendry | [✓](http://talks.webconverger.com/2017-08-22/) | | |
 | More understanding on using Go with (SQL) database | Mark Khiem | [✓](https://github.com/exklamationmark/talks/blob/master/singapore_gophers_feb_2017/slide.pdf) | [✓](https://github.com/exklamationmark/talks/tree/master/singapore_gophers_feb_2017) | |
 | What is new in Go 1.8 | John Hua | [✓](https://www.slideshare.net/huazhihao1/what-is-new-in-go-18-72210978) | | |
-| Modelling & testing subscription engine | Mark (Khiem) | | | [✓](https://youtu.be/5J2tCMWFs8o) |
+| Modelling & testing subscription engine | Mark Khiem | | | [✓](https://youtu.be/5J2tCMWFs8o) |
 | Static site generator | Kai Hendry | | | [✓](https://youtu.be/J9yxbpmz-nY) |
-| Using Go text and html templates | Siu Yin | | | [✓](https://youtu.be/oRjI-sdiNrY) |
+| Using Go text and html templates | Loh Siu Yin | | | [✓](https://youtu.be/oRjI-sdiNrY) |
