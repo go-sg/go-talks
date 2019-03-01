@@ -1,0 +1,103 @@
+[
+  {
+    "topic": "AWS SDK for Go",
+    "speaker": "Kai Hendry",
+    "video": "https://engineers.sg/v/2254",
+    "meetup": {
+      "date": "25-01-2018",
+      "link": "https://www.meetup.com/golangsg/events/238553007/"
+    }
+  },
+  {
+    "topic": "Tensorflow Serving in Go",
+    "speaker": "Guo Jun",
+    "video": "https://engineers.sg/v/2253",
+    "meetup": {
+      "date": "25-01-2018",
+      "link": "https://www.meetup.com/golangsg/events/238553007/"
+    }
+  },
+  {
+    "topic": "Gitlab and Go in Go-Jek",
+    "speaker": "Liu Hai Bin",
+    "video": "https://engineers.sg/v/2252",
+    "meetup": {
+      "date": "25-01-2018",
+      "link": "https://www.meetup.com/golangsg/events/238553007/"
+    }
+  },
+  {
+    "topic": "Learning Opentracing with Go",
+    "speaker": "Loh Siu Yin",
+    "slides": "https://github.com/siuyin/present_opentracing-go",
+    "meetup": {
+      "date": "07-11-2017",
+      "link": "https://www.meetup.com/golangsg/events/243542417/"
+    }
+  },
+  {
+    "topic": "APEX",
+    "speaker": "Kai Hendry",
+    "slides": "http://talks.webconverger.com/2017-08-22/",
+    "meetup": {
+      "date": "22-08-2017",
+      "link": "https://www.meetup.com/golangsg/events/242062951/"
+    }
+  },
+  {
+    "topic": "More understanding on using Go with (SQL) database",
+    "speaker": "Mark Khiem",
+    "slides": "https://github.com/exklamationmark/talks/blob/master/singapore_gophers_feb_2017/slide.pdf",
+    "code": "https://github.com/exklamationmark/talks/tree/master/singapore_gophers_feb_2017",
+    "meetup": {
+      "date": "16-02-2017",
+      "link": "https://www.meetup.com/golangsg/events/236725569/"
+    }
+  },
+  {
+    "topic": "Serverless Golang",
+    "speaker": "Kai Hendry",
+    "slides": "http://talks.webconverger.com/2017-02-16/",
+    "meetup": {
+      "date": "16-02-2017",
+      "link": "https://www.meetup.com/golangsg/events/236725569/"
+    }
+  },
+  {
+    "topic": "What is new in Go 1.8",
+    "speaker": "John Hua",
+    "slides": "https://www.slideshare.net/huazhihao1/what-is-new-in-go-18-72210978",
+    "meetup": {
+      "date": "16-02-2017",
+      "link": "https://www.meetup.com/golangsg/events/236725569/"
+    }
+  },
+  {
+    "topic": "Modelling & testing subscription engine",
+    "speaker": "Mark Khiem",
+    "video": "https://youtu.be/5J2tCMWFs8o",
+    "meetup": {
+      "date": "03-11-2016",
+      "link": "https://www.meetup.com/golangsg/events/234688409/"
+    }
+  },
+  {
+    "topic": "Static site generator",
+    "speaker": "Kai Hendry",
+    "slides": "http://talks.webconverger.com/2016-11-03/",
+    "video": "https://youtu.be/J9yxbpmz-nY",
+    "meetup": {
+      "date": "03-11-2016",
+      "link": "https://www.meetup.com/golangsg/events/234688409/"
+    }
+  },
+  {
+    "topic": "Using Go text and html templates",
+    "speaker": "Loh Siu Yin",
+    "video": "https://youtu.be/oRjI-sdiNrY",
+    "meetup": {
+      "date": "03-11-2016",
+      "link": "https://www.meetup.com/golangsg/events/234688409/"
+    }
+  }
+]
