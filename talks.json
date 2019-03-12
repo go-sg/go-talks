@@ -1,5 +1,25 @@
 [
   {
+    "topic": "Orchestrating Concurrency in Go",
+    "speaker": "Abhinav Suryavanshi & Douglas Vaz",
+    "video": "https://www.youtube.com/watch?v=veoyrc2RDfk",
+    "code": "https://github.com/abhinav3295/go-meetups",
+    "meetup": {
+      "date": "28-02-2019",
+      "link": "https://www.meetup.com/golangsg/events/258485148/"
+    }
+  },
+  {
+    "topic": "SDN Programming with Go",
+    "speaker": "Donaldson Tan",
+    "video": "https://www.youtube.com/watch?v=v3XStim6iu8",
+    "code": "https://github.com/intel-go/nff-go/tree/master/examples/lb",
+    "meetup": {
+      "date": "28-02-2019",
+      "link": "https://www.meetup.com/golangsg/events/258485148/"
+    }
+  },
+  {
     "topic": "AWS SDK for Go",
     "speaker": "Kai Hendry",
     "video": "https://engineers.sg/v/2254",

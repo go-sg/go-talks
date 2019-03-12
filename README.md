@@ -3,6 +3,8 @@ Click on the ✓ to see the slides/code/video.
 
 | Topic | Speaker | Slides | Code | Video | Meetup |
 | --- | --- |:---:|:---:|:---:|:---:|
+| Orchestrating Concurrency in Go | Abhinav Suryavanshi & Douglas Vaz | | [✓](https://github.com/abhinav3295/go-meetups) | [✓](https://www.youtube.com/watch?v=veoyrc2RDfk) | [28-02-2019](https://www.meetup.com/golangsg/events/258485148/) |
+| SDN Programming with Go | Donaldson Tan | | [✓](https://github.com/intel-go/nff-go/tree/master/examples/lb) | [✓](https://www.youtube.com/watch?v=v3XStim6iu8) | [28-02-2019](https://www.meetup.com/golangsg/events/258485148/) |
 | AWS SDK for Go | Kai Hendry | | | [✓](https://engineers.sg/v/2254) | [25-01-2018](https://www.meetup.com/golangsg/events/238553007/) |
 | Tensorflow Serving in Go | Guo Jun | | | [✓](https://engineers.sg/v/2253) | [25-01-2018](https://www.meetup.com/golangsg/events/238553007/) |
 | Gitlab and Go in Go-Jek | Liu Hai Bin | | | [✓](https://engineers.sg/v/2252) | [25-01-2018](https://www.meetup.com/golangsg/events/238553007/) |
