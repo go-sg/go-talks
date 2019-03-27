@@ -3,6 +3,8 @@ Click on the ✓ to see the slides/code/video.
 
 | Topic | Speaker | Slides | Code | Video | Meetup |
 | --- | --- |:---:|:---:|:---:|:---:|
+| Active objects. How to remove mutexes from your codebase. | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/blob/master/active_objects/presentation.md) | [✓](https://github.com/astavonin/presentations/tree/master/active_objects) | [✓](https://www.youtube.com/watch?v=X_ysR8hujnU) | [25-03-2019](https://www.meetup.com/golangsg/events/259786198/) |
+| Flogo | Sahaj Sharma | | [✓](https://github.com/tibcosoftware/flogo) | [✓](https://www.youtube.com/watch?v=IcoMAMh35is) | [25-03-2019](https://www.meetup.com/golangsg/events/259786198/) |
 | Orchestrating Concurrency in Go | Abhinav Suryavanshi & Douglas Vaz | | [✓](https://github.com/abhinav3295/go-meetups) | [✓](https://www.youtube.com/watch?v=veoyrc2RDfk) | [28-02-2019](https://www.meetup.com/golangsg/events/258485148/) |
 | SDN Programming with Go | Donaldson Tan | | [✓](https://github.com/intel-go/nff-go/tree/master/examples/lb) | [✓](https://www.youtube.com/watch?v=v3XStim6iu8) | [28-02-2019](https://www.meetup.com/golangsg/events/258485148/) |
 | AWS SDK for Go | Kai Hendry | | | [✓](https://engineers.sg/v/2254) | [25-01-2018](https://www.meetup.com/golangsg/events/238553007/) |

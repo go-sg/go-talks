@@ -1,5 +1,26 @@
 [
   {
+    "topic": "Active objects. How to remove mutexes from your codebase.",
+    "speaker": "Alexander Stavonin",
+    "video": "https://www.youtube.com/watch?v=X_ysR8hujnU",
+    "code": "https://github.com/astavonin/presentations/tree/master/active_objects",
+    "slides": "https://github.com/astavonin/presentations/blob/master/active_objects/presentation.md",
+    "meetup": {
+      "date": "25-03-2019",
+      "link": "https://www.meetup.com/golangsg/events/259786198/"
+    }
+  },
+  {
+    "topic": "Flogo",
+    "speaker": "Sahaj Sharma",
+    "video": "https://www.youtube.com/watch?v=IcoMAMh35is",
+    "code": "https://github.com/tibcosoftware/flogo",
+    "meetup": {
+      "date": "25-03-2019",
+      "link": "https://www.meetup.com/golangsg/events/259786198/"
+    }
+  },
+  {
     "topic": "Orchestrating Concurrency in Go",
     "speaker": "Abhinav Suryavanshi & Douglas Vaz",
     "video": "https://www.youtube.com/watch?v=veoyrc2RDfk",
