@@ -1,6 +1,8 @@
 # Go Talks
 Click on the ✓ to see the slides/code/video.
 
+Interested to give a talk? Submit a proposal [here](https://forms.gle/eygEfxRZSef6PeBw9)
+
 | Topic | Speaker | Slides | Code | Video | Meetup |
 | --- | --- |:---:|:---:|:---:|:---:|
 | Active objects. How to remove mutexes from your codebase. | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/blob/master/active_objects/presentation.md) | [✓](https://github.com/astavonin/presentations/tree/master/active_objects) | [✓](https://www.youtube.com/watch?v=X_ysR8hujnU) | [25-03-2019](https://www.meetup.com/golangsg/events/259786198/) |

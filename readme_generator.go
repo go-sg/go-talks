@@ -23,6 +23,7 @@ type meetup struct {
 
 const headerString string = "# Go Talks\n" +
 	"Click on the ✓ to see the slides/code/video.\n\n" +
+	"Interested to give a talk? Submit a proposal [here](https://forms.gle/eygEfxRZSef6PeBw9)\n\n" +
 	"| Topic | Speaker | Slides | Code | Video | Meetup |\n" +
 	"| --- | --- |:---:|:---:|:---:|:---:|\n"
 
