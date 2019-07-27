@@ -5,6 +5,8 @@ Interested to give a talk? Submit a proposal [here](https://forms.gle/eygEfxRZSe
 
 | Topic | Speaker | Slides | Code | Video | Meetup |
 | --- | --- |:---:|:---:|:---:|:---:|
+| Practical Go reflection | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/blob/master/event_buss/standalone.html) | [✓](https://github.com/astavonin/presentations/tree/master/event_buss) | | [17-07-2019](https://www.meetup.com/golangsg/events/262993440/) |
+| Getting Started with Apache Beam and Go | Loh Siu Yin | [✓](https://github.com/siuyin/present_beam_start) | [✓](https://github.com/siuyin/present_beam_start/tree/master/cmd) | | [17-07-2019](https://www.meetup.com/golangsg/events/262993440/) |
 | Active objects. How to remove mutexes from your codebase. | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/blob/master/active_objects/presentation.md) | [✓](https://github.com/astavonin/presentations/tree/master/active_objects) | [✓](https://www.youtube.com/watch?v=X_ysR8hujnU) | [25-03-2019](https://www.meetup.com/golangsg/events/259786198/) |
 | Flogo | Sahaj Sharma | | [✓](https://github.com/tibcosoftware/flogo) | [✓](https://www.youtube.com/watch?v=IcoMAMh35is) | [25-03-2019](https://www.meetup.com/golangsg/events/259786198/) |
 | Orchestrating Concurrency in Go | Abhinav Suryavanshi & Douglas Vaz | | [✓](https://github.com/abhinav3295/go-meetups) | [✓](https://www.youtube.com/watch?v=veoyrc2RDfk) | [28-02-2019](https://www.meetup.com/golangsg/events/258485148/) |

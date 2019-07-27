@@ -1,5 +1,25 @@
 [
   {
+    "topic": "Practical Go reflection",
+    "speaker": "Alexander Stavonin",
+    "code": "https://github.com/astavonin/presentations/tree/master/event_buss",
+    "slides": "https://github.com/astavonin/presentations/blob/master/event_buss/standalone.html",
+    "meetup": {
+      "date": "17-07-2019",
+      "link": "https://www.meetup.com/golangsg/events/262993440/"
+    }
+  },
+  {
+    "topic": "Getting Started with Apache Beam and Go",
+    "speaker": "Loh Siu Yin",
+    "code": "https://github.com/siuyin/present_beam_start/tree/master/cmd",
+    "slides": "https://github.com/siuyin/present_beam_start",
+    "meetup": {
+      "date": "17-07-2019",
+      "link": "https://www.meetup.com/golangsg/events/262993440/"
+    }
+  },
+  {
     "topic": "Active objects. How to remove mutexes from your codebase.",
     "speaker": "Alexander Stavonin",
     "video": "https://www.youtube.com/watch?v=X_ysR8hujnU",
