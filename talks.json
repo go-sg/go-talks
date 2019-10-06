@@ -1,5 +1,14 @@
 [
   {
+    "topic": "Building your web service into one binary file",
+    "speaker": "Jay (Yen-Chieh)",
+    "video": "https://www.youtube.com/watch?v=reNNWRtM2D8",
+    "meetup": {
+      "date": "26-09-2019",
+      "link": "https://www.meetup.com/golangsg/events/264447842/"
+    }
+  },
+  {
     "topic": "Practical Go reflection",
     "speaker": "Alexander Stavonin",
     "code": "https://github.com/astavonin/presentations/tree/master/event_buss",

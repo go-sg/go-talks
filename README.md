@@ -5,6 +5,7 @@ Interested to give a talk? Submit a proposal [here](https://forms.gle/eygEfxRZSe
 
 | Topic | Speaker | Slides | Code | Video | Meetup |
 | --- | --- |:---:|:---:|:---:|:---:|
+| Building your web service into one binary file | Jay (Yen-Chieh) | | | [✓](https://www.youtube.com/watch?v=reNNWRtM2D8) | [26-09-2019](https://www.meetup.com/golangsg/events/264447842/) |
 | Practical Go reflection | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/blob/master/event_buss/standalone.html) | [✓](https://github.com/astavonin/presentations/tree/master/event_buss) | | [17-07-2019](https://www.meetup.com/golangsg/events/262993440/) |
 | Getting Started with Apache Beam and Go | Loh Siu Yin | [✓](https://github.com/siuyin/present_beam_start) | [✓](https://github.com/siuyin/present_beam_start/tree/master/cmd) | | [17-07-2019](https://www.meetup.com/golangsg/events/262993440/) |
 | Active objects. How to remove mutexes from your codebase. | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/blob/master/active_objects/presentation.md) | [✓](https://github.com/astavonin/presentations/tree/master/active_objects) | [✓](https://www.youtube.com/watch?v=X_ysR8hujnU) | [25-03-2019](https://www.meetup.com/golangsg/events/259786198/) |
