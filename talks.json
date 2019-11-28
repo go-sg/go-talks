@@ -1,5 +1,34 @@
 [
   {
+    "topic": "All you need to know about error handling",
+    "speaker": "Alexander Stavonin",
+    "slides": "https://github.com/astavonin/presentations/tree/master/error_handling",
+    "video": "https://engineers.sg/video/all-you-need-to-know-about-error-handling-gosg--3808",
+    "meetup": {
+      "date": "20-11-2019",
+      "link": "https://www.meetup.com/golangsg/events/266039423/"
+    }
+  },
+  {
+    "topic": "End the wars with Tanuki - Multiple programming languages in single web application",
+    "speaker": "Chang Sau Sheong",
+    "video": "https://engineers.sg/video/end-the-wars-with-tanuki-multiple-programming-languages-in-single-web-application-gosg--3810",
+    "meetup": {
+      "date": "20-11-2019",
+      "link": "https://www.meetup.com/golangsg/events/266039423/"
+    }
+  },
+  {
+    "topic": "Is Go for you?",
+    "speaker": "Loh Siu Yin",
+    "video": "https://engineers.sg/video/is-go-for-you-gosg--3809",
+    "slides": "https://github.com/siuyin/present-is_go_for_you",
+    "meetup": {
+      "date": "20-11-2019",
+      "link": "https://www.meetup.com/golangsg/events/266039423/"
+    }
+  },
+  {
     "topic": "Building your web service into one binary file",
     "speaker": "Jay (Yen-Chieh)",
     "video": "https://www.youtube.com/watch?v=reNNWRtM2D8",

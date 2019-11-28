@@ -5,6 +5,9 @@ Interested to give a talk? Submit a proposal [here](https://forms.gle/eygEfxRZSe
 
 | Topic | Speaker | Slides | Code | Video | Meetup |
 | --- | --- |:---:|:---:|:---:|:---:|
+| All you need to know about error handling | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/tree/master/error_handling) | | [✓](https://engineers.sg/video/all-you-need-to-know-about-error-handling-gosg--3808) | [20-11-2019](https://www.meetup.com/golangsg/events/266039423/) |
+| End the wars with Tanuki - Multiple programming languages in single web application | Chang Sau Sheong | | | [✓](https://engineers.sg/video/end-the-wars-with-tanuki-multiple-programming-languages-in-single-web-application-gosg--3810) | [20-11-2019](https://www.meetup.com/golangsg/events/266039423/) |
+| Is Go for you? | Loh Siu Yin | [✓](https://github.com/siuyin/present-is_go_for_you) | | [✓](https://engineers.sg/video/is-go-for-you-gosg--3809) | [20-11-2019](https://www.meetup.com/golangsg/events/266039423/) |
 | Building your web service into one binary file | Jay (Yen-Chieh) | | | [✓](https://www.youtube.com/watch?v=reNNWRtM2D8) | [26-09-2019](https://www.meetup.com/golangsg/events/264447842/) |
 | Practical Go reflection | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/blob/master/event_buss/standalone.html) | [✓](https://github.com/astavonin/presentations/tree/master/event_buss) | | [17-07-2019](https://www.meetup.com/golangsg/events/262993440/) |
 | Getting Started with Apache Beam and Go | Loh Siu Yin | [✓](https://github.com/siuyin/present_beam_start) | [✓](https://github.com/siuyin/present_beam_start/tree/master/cmd) | | [17-07-2019](https://www.meetup.com/golangsg/events/262993440/) |
