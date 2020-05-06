@@ -1,5 +1,26 @@
 [
   {
+    "topic": "Optical Character Recognition (OCR) Implementation with Golang",
+    "speaker": "Kennard Wicoady",
+    "video": "https://engineers.sg/video/optical-character-recognition-ocr-implementation-with-golang-gosg--4031",
+    "code": "https://github.com/wicoady1/gtdr-score-parser",
+    "slides": "https://docs.google.com/presentation/d/1JpkMUssD2l40hihNBq9ocXhXj0zikaLh4L1SyKURRCk/edit?usp=sharing",
+    "meetup": {
+      "date": "29-04-2020",
+      "link": "https://www.meetup.com/golangsg/events/270160264/"
+    }
+  },
+  {
+    "topic": "Code generation in Go: Code generation need not always be a bad thing",
+    "speaker": "Sudarshan Reddy",
+    "code": "https://geekandlatin.com/post/code-gen/",
+    "video": "https://engineers.sg/video/code-generation-in-go-code-generation-need-not-always-be-a-bad-thing-gosg--4018",
+    "meetup": {
+      "date": "25-03-2020",
+      "link": "https://www.meetup.com/golangsg/events/269563409/"
+    }
+  },
+  {
     "topic": "All you need to know about error handling",
     "speaker": "Alexander Stavonin",
     "slides": "https://github.com/astavonin/presentations/tree/master/error_handling",

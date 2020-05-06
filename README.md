@@ -5,6 +5,8 @@ Interested to give a talk? Submit a proposal [here](https://forms.gle/eygEfxRZSe
 
 | Topic | Speaker | Slides | Code | Video | Meetup |
 | --- | --- |:---:|:---:|:---:|:---:|
+| Optical Character Recognition (OCR) Implementation with Golang | Kennard Wicoady | [✓](https://docs.google.com/presentation/d/1JpkMUssD2l40hihNBq9ocXhXj0zikaLh4L1SyKURRCk/edit?usp=sharing) | [✓](https://github.com/wicoady1/gtdr-score-parser) | [✓](https://engineers.sg/video/optical-character-recognition-ocr-implementation-with-golang-gosg--4031) | [29-04-2020](https://www.meetup.com/golangsg/events/270160264/) |
+| Code generation in Go: Code generation need not always be a bad thing | Sudarshan Reddy | | [✓](https://geekandlatin.com/post/code-gen/) | [✓](https://engineers.sg/video/code-generation-in-go-code-generation-need-not-always-be-a-bad-thing-gosg--4018) | [25-03-2020](https://www.meetup.com/golangsg/events/269563409/) |
 | All you need to know about error handling | Alexander Stavonin | [✓](https://github.com/astavonin/presentations/tree/master/error_handling) | | [✓](https://engineers.sg/video/all-you-need-to-know-about-error-handling-gosg--3808) | [20-11-2019](https://www.meetup.com/golangsg/events/266039423/) |
 | End the wars with Tanuki - Multiple programming languages in single web application | Chang Sau Sheong | | | [✓](https://engineers.sg/video/end-the-wars-with-tanuki-multiple-programming-languages-in-single-web-application-gosg--3810) | [20-11-2019](https://www.meetup.com/golangsg/events/266039423/) |
 | Is Go for you? | Loh Siu Yin | [✓](https://github.com/siuyin/present-is_go_for_you) | | [✓](https://engineers.sg/video/is-go-for-you-gosg--3809) | [20-11-2019](https://www.meetup.com/golangsg/events/266039423/) |
