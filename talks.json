@@ -1,5 +1,26 @@
 [
   {
+    "topic": "A Technical Deep-dive of http://pace.dev From an Experienced Gopher",
+    "speaker": "Mat Ryer",
+    "code": "https://github.com/pacedotdev/community",
+    "video": "https://www.engineers.sg/video/a-technical-deep-dive-of-http-pace-dev-from-an-experienced-gopher-mat-ryer--4059",
+    "meetup": {
+      "date": "27-06-2020",
+      "link": "https://www.meetup.com/golangsg/events/271250636/"
+    }
+  },
+  {
+    "topic": "Building Simulations With a Go Cellular Automata Framework",
+    "speaker": "Chang Sau Sheong",
+    "video": "https://www.engineers.sg/episodes/4058",
+    "code": "https://github.com/sausheong/petri",
+    "slides": "https://medium.com/swlh/building-simulations-with-a-go-cellular-automata-framework-89b2bb1246d3",
+    "meetup": {
+      "date": "27-06-2020",
+      "link": "https://www.meetup.com/golangsg/events/271250636/"
+    }
+  },
+  {
     "topic": "Optical Character Recognition (OCR) Implementation with Golang",
     "speaker": "Kennard Wicoady",
     "video": "https://engineers.sg/video/optical-character-recognition-ocr-implementation-with-golang-gosg--4031",
